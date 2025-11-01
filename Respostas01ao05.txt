@@ -1,0 +1,21 @@
+
+AprendizadoSupervisionado
+b)Prever rótulos ou valores com base em exemplos conhecidos.
+Explicação: No aprendizado supervisionado, temos dados de entrada com rótulos e queremos treinar o modelo para fazer previsões sobre novos dados.
+
+Classificação
+b)Determinar se um e-mail é spam ou não.
+Explicação: Classificação significa prever categorias discretas, como "spam" ou "não spam".
+
+Clustering ( Agrupamento )
+A) K-Means
+Explicação: K-Means é um algoritmo não supervisionado que divide os dados em grupos baseados em similaridade. 
+
+Overfitting ( Sobreajuste )
+B) O modelo funciona muito bem nos dados de treino, mas mal em dados novos.
+Explicação: O modelo aprendeu detalhes e ruídos dos dados de treino demais, perdendo capacidade de generalizar.
+
+RegressãoLinear
+b)O erro entre as previsões do modelo e os valores reais.
+Explicação: O modelo ajusta os coeficientes para minimizar a diferença entre as previsões e os valores reais, geralmente usando o erro quadrático médio (MSE).
+
